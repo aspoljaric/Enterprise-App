@@ -1,0 +1,10 @@
+c:\users\subby\documents\visual studio 2015\Projects\MyApp.Core\MyApp.Core\bin\Debug\MyApp.Core.dll
+c:\users\subby\documents\visual studio 2015\Projects\MyApp.Core\MyApp.Core\bin\Debug\MyApp.Core.pdb
+c:\users\subby\documents\visual studio 2015\Projects\MyApp.Core\MyApp.Core\obj\Debug\MyApp.Core.csprojResolveAssemblyReference.cache
+c:\users\subby\documents\visual studio 2015\Projects\MyApp.Core\MyApp.Core\obj\Debug\MyApp.Core.dll
+c:\users\subby\documents\visual studio 2015\Projects\MyApp.Core\MyApp.Core\obj\Debug\MyApp.Core.pdb
+E:\myProjects\MyApp.Core\MyApp.Core\bin\Debug\MyApp.Core.dll
+E:\myProjects\MyApp.Core\MyApp.Core\bin\Debug\MyApp.Core.pdb
+E:\myProjects\MyApp.Core\MyApp.Core\obj\Debug\MyApp.Core.csprojResolveAssemblyReference.cache
+E:\myProjects\MyApp.Core\MyApp.Core\obj\Debug\MyApp.Core.dll
+E:\myProjects\MyApp.Core\MyApp.Core\obj\Debug\MyApp.Core.pdb

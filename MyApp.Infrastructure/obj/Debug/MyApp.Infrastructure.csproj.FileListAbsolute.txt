@@ -1,0 +1,24 @@
+c:\users\subby\documents\visual studio 2015\Projects\MyApp.Core\MyApp.Infrastructure\bin\Debug\MyApp.Infrastructure.dll.config
+c:\users\subby\documents\visual studio 2015\Projects\MyApp.Core\MyApp.Infrastructure\bin\Debug\MyApp.Infrastructure.dll
+c:\users\subby\documents\visual studio 2015\Projects\MyApp.Core\MyApp.Infrastructure\bin\Debug\MyApp.Infrastructure.pdb
+c:\users\subby\documents\visual studio 2015\Projects\MyApp.Core\MyApp.Infrastructure\bin\Debug\EntityFramework.dll
+c:\users\subby\documents\visual studio 2015\Projects\MyApp.Core\MyApp.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\subby\documents\visual studio 2015\Projects\MyApp.Core\MyApp.Infrastructure\bin\Debug\MyApp.Core.dll
+c:\users\subby\documents\visual studio 2015\Projects\MyApp.Core\MyApp.Infrastructure\bin\Debug\MyApp.Core.pdb
+c:\users\subby\documents\visual studio 2015\Projects\MyApp.Core\MyApp.Infrastructure\bin\Debug\EntityFramework.xml
+c:\users\subby\documents\visual studio 2015\Projects\MyApp.Core\MyApp.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\subby\documents\visual studio 2015\Projects\MyApp.Core\MyApp.Infrastructure\obj\Debug\MyApp.Infrastructure.csprojResolveAssemblyReference.cache
+c:\users\subby\documents\visual studio 2015\Projects\MyApp.Core\MyApp.Infrastructure\obj\Debug\MyApp.Infrastructure.dll
+c:\users\subby\documents\visual studio 2015\Projects\MyApp.Core\MyApp.Infrastructure\obj\Debug\MyApp.Infrastructure.pdb
+E:\myProjects\MyApp.Core\MyApp.Infrastructure\bin\Debug\MyApp.Infrastructure.dll.config
+E:\myProjects\MyApp.Core\MyApp.Infrastructure\bin\Debug\MyApp.Infrastructure.dll
+E:\myProjects\MyApp.Core\MyApp.Infrastructure\bin\Debug\MyApp.Infrastructure.pdb
+E:\myProjects\MyApp.Core\MyApp.Infrastructure\bin\Debug\EntityFramework.dll
+E:\myProjects\MyApp.Core\MyApp.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+E:\myProjects\MyApp.Core\MyApp.Infrastructure\bin\Debug\MyApp.Core.dll
+E:\myProjects\MyApp.Core\MyApp.Infrastructure\bin\Debug\MyApp.Core.pdb
+E:\myProjects\MyApp.Core\MyApp.Infrastructure\bin\Debug\EntityFramework.xml
+E:\myProjects\MyApp.Core\MyApp.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+E:\myProjects\MyApp.Core\MyApp.Infrastructure\obj\Debug\MyApp.Infrastructure.csprojResolveAssemblyReference.cache
+E:\myProjects\MyApp.Core\MyApp.Infrastructure\obj\Debug\MyApp.Infrastructure.dll
+E:\myProjects\MyApp.Core\MyApp.Infrastructure\obj\Debug\MyApp.Infrastructure.pdb

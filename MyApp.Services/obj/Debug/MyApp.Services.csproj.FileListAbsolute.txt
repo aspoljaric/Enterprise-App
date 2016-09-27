@@ -1,0 +1,29 @@
+c:\users\subby\documents\visual studio 2015\Projects\MyApp.Core\MyApp.Services\bin\Debug\MyApp.Services.dll
+c:\users\subby\documents\visual studio 2015\Projects\MyApp.Core\MyApp.Services\bin\Debug\MyApp.Services.pdb
+c:\users\subby\documents\visual studio 2015\Projects\MyApp.Core\MyApp.Services\bin\Debug\MyApp.Core.dll
+c:\users\subby\documents\visual studio 2015\Projects\MyApp.Core\MyApp.Services\bin\Debug\MyApp.Core.pdb
+c:\users\subby\documents\visual studio 2015\Projects\MyApp.Core\MyApp.Services\obj\Debug\MyApp.Services.dll
+c:\users\subby\documents\visual studio 2015\Projects\MyApp.Core\MyApp.Services\obj\Debug\MyApp.Services.pdb
+c:\users\subby\documents\visual studio 2015\Projects\MyApp.Core\MyApp.Services\obj\Debug\MyApp.Services.csprojResolveAssemblyReference.cache
+C:\Users\subby\Documents\Visual Studio 2015\Projects\MyApp.Core\MyApp.Services\bin\Debug\AutoMapper.dll
+C:\Users\subby\Documents\Visual Studio 2015\Projects\MyApp.Core\MyApp.Services\bin\Debug\MyApp.Infrastructure.dll
+C:\Users\subby\Documents\Visual Studio 2015\Projects\MyApp.Core\MyApp.Services\bin\Debug\EntityFramework.dll
+C:\Users\subby\Documents\Visual Studio 2015\Projects\MyApp.Core\MyApp.Services\bin\Debug\MyApp.Infrastructure.pdb
+C:\Users\subby\Documents\Visual Studio 2015\Projects\MyApp.Core\MyApp.Services\bin\Debug\AutoMapper.xml
+C:\Users\subby\Documents\Visual Studio 2015\Projects\MyApp.Core\MyApp.Services\bin\Debug\EntityFramework.xml
+E:\myProjects\MyApp.Core\MyApp.Services\bin\Debug\MyApp.Services.dll
+E:\myProjects\MyApp.Core\MyApp.Services\bin\Debug\MyApp.Services.pdb
+E:\myProjects\MyApp.Core\MyApp.Services\bin\Debug\AutoMapper.dll
+E:\myProjects\MyApp.Core\MyApp.Services\bin\Debug\MyApp.Core.dll
+E:\myProjects\MyApp.Core\MyApp.Services\bin\Debug\MyApp.Infrastructure.dll
+E:\myProjects\MyApp.Core\MyApp.Services\bin\Debug\EntityFramework.dll
+E:\myProjects\MyApp.Core\MyApp.Services\bin\Debug\MyApp.Core.pdb
+E:\myProjects\MyApp.Core\MyApp.Services\bin\Debug\MyApp.Infrastructure.pdb
+E:\myProjects\MyApp.Core\MyApp.Services\bin\Debug\AutoMapper.xml
+E:\myProjects\MyApp.Core\MyApp.Services\bin\Debug\EntityFramework.xml
+E:\myProjects\MyApp.Core\MyApp.Services\obj\Debug\MyApp.Services.csprojResolveAssemblyReference.cache
+E:\myProjects\MyApp.Core\MyApp.Services\obj\Debug\MyApp.Services.dll
+E:\myProjects\MyApp.Core\MyApp.Services\obj\Debug\MyApp.Services.pdb
+E:\myProjects\MyApp.Core\MyApp.Services\bin\Debug\AutoMapper.Net4.dll
+E:\myProjects\MyApp.Core\MyApp.Services\bin\Debug\AutoMapper.pdb
+E:\myProjects\MyApp.Core\MyApp.Services\bin\Debug\AutoMapper.Net4.pdb
